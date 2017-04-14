@@ -47,8 +47,12 @@ Open a command window as Administrator in this project folder (e.g. C:\44564\P16
 Follow the below commands:
 >python Mapper.py
 
+![mapper](https://cloud.githubusercontent.com/assets/22079666/25057731/046dc342-2138-11e7-8229-cb6fdb5f606f.PNG)
+
 The output of the mapper function gives us a mapper_output_sorted.txt file.
 This mapper_output_sorted.txt file is fed to reducer function to give us reducer_output.txt file.
 below is the command to execute reducer function
 
 >python Reducer.py
+
+![reducer](https://cloud.githubusercontent.com/assets/22079666/25057732/047083b6-2138-11e7-943c-c0e2a034b577.PNG)
