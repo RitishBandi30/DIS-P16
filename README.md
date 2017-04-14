@@ -2,7 +2,7 @@
 DIS project - Team P16
 
 Team members: 
-Ritish Reddy Bandi 
+Ritish Reddy Bandi, 
 Sai Suneel Reddy Challa
 
 Developed as part of the profession-based learning cirriculum at:
