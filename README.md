@@ -1,2 +1,2 @@
-# DIS-P19
-DIS project - Team P19
+# DIS-P16
+DIS project - Team P16
