@@ -26,19 +26,21 @@ Prerequisites:
 Following must be installed to run this application:
 Python
 Notepad++ (recommended)
-Get started
+
+Get started:
 Clone this repo to your local machine. 
-If Windows, 
+In Windows, 
 Right-click on C:\44564.
 git clone https://github.com/RitishBandi30/DIS-P16.git
 
-Overview
+Overview:
 Short introduction to our project:
 Our project is mapreduce program that finds the maximum number of gold medals and total number of medals won by each country at the Olympics.
 
-Process
+Process:
 Initially, our input file is filtered and copied into a text file and is feed to the mapper program to retrieve required fields of dataset. Output of mapper program is sorted & shuffled before passing it to the reducer program. In reducer program, we apply maximum aggregate function to generate maximum gold medals and total number of medals(gold, silver and bronze) won by each country at Olympics.
-Initialize (do these just once when setting up the project)
+
+Initialize (do these just once when setting up the project):
 Clone a copy of repository to your c:\44564 folder.
 Open a command window as Administrator in this project folder (e.g. C:\44564\P16).
 
