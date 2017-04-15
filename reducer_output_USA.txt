@@ -1,0 +1,27 @@
+aquatics	61
+archery	0
+athletics	27
+badminton	0
+basketball	24
+boxing	1
+canoe	0
+cycling	2
+equestrian	0
+fencing	0
+football	0
+golf	0
+gymnastics	8
+hockey	0
+judo	1
+modern pentathlon	0
+rowing	9
+rugby sevens	0
+sailing	0
+shooting	1
+table tennis	0
+taekwondo	0
+tennis	2
+triathlon	1
+volleyball	0
+weightlifting	0
+wrestling	2
