@@ -60,3 +60,12 @@ below is the command to execute reducer function
 The output of the reducer is plotted as below.
 
 ![image](https://cloud.githubusercontent.com/assets/22079666/25060031/7cdb342a-2158-11e7-8760-1193c6c8848a.png)
+
+Commands to find medals in different games for USA:
+>python Mapper_USA.py
+![mapper_usa](https://cloud.githubusercontent.com/assets/22079666/25060069/1668e366-215a-11e7-8b12-908812b40ece.PNG)
+The output is mapper_sorted_USA.txt file which is then fed to reducer
+>python Reducer_USA.py
+![red_usa](https://cloud.githubusercontent.com/assets/22079666/25060070/166c367e-215a-11e7-8cf7-a29c4628668b.PNG)
+The output is plotted in pie chart as below.
+![image](https://cloud.githubusercontent.com/assets/22079666/25060067/0d0c7508-215a-11e7-9b4e-a71c467d8bfc.png)
