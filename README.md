@@ -36,7 +36,8 @@ git clone https://github.com/RitishBandi30/DIS-P16.git
 Overview:
 Short introduction to our project:
 Our project is mapreduce program that finds the maximum number of gold medals won by each country and in which sport did USA get highest number of gold medals at the  2016 Olympics.
-
+Link to Data Source: https://www.kaggle.com/rio2016/olympic-games
+ 
 Process:
 Initially, our input file is filtered and copied into a text file and is feed to the mapper program to retrieve required fields of dataset. Output of mapper program is sorted & shuffled before passing it to the reducer program. In reducer program, we apply maximum aggregate function to generate maximum gold medals won by each country and in which sport did USA get highest number of gold medals at 2016 Olympics.
 
