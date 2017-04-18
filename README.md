@@ -67,7 +67,7 @@ Commands to find medals in different games for USA:
 ![mapper_usa](https://cloud.githubusercontent.com/assets/22079666/25060069/1668e366-215a-11e7-8b12-908812b40ece.PNG)
 The output is mapper_sorted_USA.txt file which is then fed to reducer
 >python Reducer_USA.py
-![red_usa](https://cloud.githubusercontent.com/assets/22079666/25060070/166c367e-215a-11e7-8cf7-a29c4628668b.PNG)
+![red_usa](https://cloud.githubusercontent.com/assets/22079666/25157719/9fcdacd4-2468-11e7-83ea-cf010b17c09b.PNG)
 The output is plotted in pie chart as below using excel sheet. We did it by selecting the complete data and inserting a pie chart.
 ![image](https://cloud.githubusercontent.com/assets/22079666/25060067/0d0c7508-215a-11e7-9b4e-a71c467d8bfc.png)
 
