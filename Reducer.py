@@ -31,3 +31,15 @@ if oldCountry != None:
 
 sorted.close() 
 results.close()
+
+result = open("reducer_output.txt", "r") 
+
+max = 0
+r = result.readlines()
+for l in r:
+    data = l.strip().split("\t");
+    if float(data[1]) > float(max):
+        max = float(data[1])
+            
+print("The maximum number of gold medals is {0}".format(max))
+result.close()
