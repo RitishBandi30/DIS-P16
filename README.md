@@ -56,7 +56,7 @@ below is the command to execute reducer function
 
 >python Reducer.py
 
-![reducer](https://cloud.githubusercontent.com/assets/22079666/25057732/047083b6-2138-11e7-943c-c0e2a034b577.PNG)
+![reducer](https://cloud.githubusercontent.com/assets/22079666/25157718/9fc8b1ac-2468-11e7-8a95-6eef2833522e.PNG)
 
 The output of the reducer is plotted as below.
 
