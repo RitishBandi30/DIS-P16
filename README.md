@@ -71,4 +71,4 @@ The output is mapper_sorted_USA.txt file which is then fed to reducer
 The output is plotted in pie chart as below using excel sheet. We did it by selecting the complete data and inserting a pie chart.
 ![image](https://cloud.githubusercontent.com/assets/22079666/25060067/0d0c7508-215a-11e7-9b4e-a71c467d8bfc.png)
 
-We have used git for sharing our code and is accessible as it is public. The work was shared to all and everyone did there part and pushed their work into the git repository.
+We have used git for sharing our code and is accessible as it is public. The work was shared to all and everyone did their part and pushed their work into the git repository.
